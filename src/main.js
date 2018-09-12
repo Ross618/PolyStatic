@@ -4,6 +4,12 @@ import router from "./router";
 import store from "./store";
 import "./registerServiceWorker";
 
+import VueParticles from "vue-particles";
+import Element from "element-ui";
+
+Vue.use(VueParticles);
+Vue.use(Element);
+
 Vue.config.productionTip = false;
 
 new Vue({
