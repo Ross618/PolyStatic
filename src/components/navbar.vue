@@ -9,10 +9,10 @@
 
     </div>
     <div class="__links a1 fadeIn">
-      <a href="/about">About Us</a>
-      <a href="/faq">FAQs</a>
-      <a href="/partners">Partners</a>
-      <a href="/contact">Contact Us</a>
+      <router-link to="/services">Services</router-link>
+      <router-link to="/faq">FAQs</router-link>
+      <router-link to="/partners">Partners</router-link>
+      <router-link to="/contact">Contact Us</router-link>
     </div>
   </nav>
   <div class="toggle" :class="{ '__visible' : sideBarVisible === true }">
@@ -21,19 +21,19 @@
   <div class="sidebar" :class="{ '__visible' : sideBarVisible === true }">
     <div class="__items">
       <div class="__item">
-        <a href="/">Home</a>
+        <router-link to="/">Home</router-link>
       </div>
       <div class="__item">
-        <a href="/about">About Us</a>
+        <router-link to="/services">Services</router-link>
       </div>
       <div class="__item">
-        <a href="/faq">FAQs</a>
+        <router-link to="/faq">FAQs</router-link>
       </div>
       <div class="__item">
-        <a href="/partners">Partners</a>
+        <router-link to="/partners">Partners</router-link>
       </div>
       <div class="__item">
-        <a href="/contact">Contact Us</a>
+        <router-link to="/contact">Contact Us</router-link>
       </div>
     </div>
   </div>

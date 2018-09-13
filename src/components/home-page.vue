@@ -113,7 +113,7 @@
   </div>
 
   <div class="headline __invert">
-    <h1>Our <span class="highlight">Partners</span></h1>
+    <h1>Our <span class="highlight">Services</span></h1>
   </div>
 
   <div class="partners">
@@ -122,24 +122,20 @@
         <div class="__partner--demo">
           <div class="__left">
             <p>
-              Retail Capital is a pioneer in the merchant factoring space. Since inception Retail capital has grown
-              its distribution network far and wide which enables them to originate loans to all types of
-              businesses...
+              Upon arrival at our dedicated recycling facility all waste plastics are hand sorted by our expert staff into material types ready for reprocessing. 
+              Once sorted the raw waste plastics are reduced in size by our shredding and granulating machinery. These machines are capable of processing any size of materials...
             </p>
-            <a href="/partners">
+            <router-link to="/services">
               <el-button type="success" size="tiny">Read More</el-button>
-            </a>
+            </router-link>
           </div>
           <div class="offers ">
             <div class="__offer">
               <div class="__logo">
-                <img src="/rc-logo.png" alt="Rc Loans">
+                <img src="../assets/images/sj pelletizer.jpg" alt="Rc Loans">
               </div>
               <div class="__head">
-                <h4>Retail Capital</h4>
-              </div>
-              <div class="__cta">
-                <el-button type="success">Accept Offer</el-button>
+                <h4>Size Reduction</h4>
               </div>
             </div>
           </div>
@@ -149,25 +145,19 @@
         <div class="__partner--demo">
           <div class="__left">
             <p>
-              Lulalaend is one of the pioneers of the SMME finance industry in South Africa and is one of the
-              fastest growing business financiers in the world. Through their proprietary technology, Lulalend can
-              originate loans in just two days. Lulalend focuses in the unsecured lending sector with a focus on
-              facilitation of working capital that can be paid back in a six-month period...
+              PolyTherm operate to industry leading standards when it comes to the fast, efficient and thorough sorting of plastic materials. Utilising both our own staff’s expert knowledge and experience, together with leading edge technology in the form of our purpose built washing and separation plants, our facility is capable of separating, cleaning and sorting a huge range of waste plastics.
             </p>
-            <a href="/partners">
+            <router-link to="/services">
               <el-button type="success" size="tiny">Read More</el-button>
-            </a>
+            </router-link>
           </div>
           <div class="offers">
             <div class="__offer">
               <div class="__logo">
-                <img src="/lulalend.png" alt="Lualend">
+                <img src="../assets/images/film squeezer.jpg" alt="Lualend">
               </div>
               <div class="__head">
-                <h4>Lulalend</h4>
-              </div>
-              <div class="__cta">
-                <el-button type="success">Accept Offer</el-button>
+                <h4>Separation</h4>
               </div>
             </div>
           </div>
@@ -177,52 +167,19 @@
         <div class="__partner--demo">
           <div class="__left">
             <p>
-              Genfin was started in 2010 with the aim of originating loans that the formal banking sector was not
-              able to facilitate. Since incorporation, Genfin has become a market leader in the business lending
-              space. Over the years, the Genfin team and technology have introduced new lending products to the
-              SMME market mainly being, unsecured finance, secured finance and invoice discounting...
+              With years of experience in the plastics industry PolyTherm understands that you need the very best quality polymer compounds for your injection, blow & extrusion moulding needs. Our compounding service offers you a viable alternative to the use of virgin plastics – including the added benefits of a cheaper, more cost-effective raw material produced from an environmentally sustainable source – recycled waste or scrap plastics.
             </p>
-            <a href="/partners">
+            <router-link to="/services">
               <el-button type="success" size="tiny">Read More</el-button>
-            </a>
+            </router-link>
           </div>
           <div class="offers">
             <div class="__offer">
               <div class="__logo">
-                <img src="/genfin.svg" alt="Genfin SVG">
+                <img src="../assets/images/film-bags.jpg" alt="Genfin SVG">
               </div>
               <div class="__head">
-                <h4>Genfin Finance</h4>
-              </div>
-              <div class="__cta">
-                <el-button type="success">Accept Offer</el-button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </el-carousel-item>
-      <el-carousel-item>
-        <div class="__partner--demo">
-          <div class="__left">
-            <p>
-              Brighton is a peer-to- peer enterprise lending platform. The platform is designed to originate
-              business loans to the SMME sector that form part of large corporations or State-owned entity’s
-              supply chains.
-            </p>
-            <a href="/partners">
-              <el-button type="success" size="tiny">Read More</el-button>
-            </a>
-          </div>
-          <div class="offers">
-            <div class="__offer">
-              <div class="__logo">
-                <img src="/brighton.png" alt="Genfin SVG">
-              </div>
-              <div class="__head">
-                <h4>Bright On Capital</h4>
-              </div>
-              <div class="__cta">
-                <el-button type="success">Accept Offer</el-button>
+                <h4>Compounding</h4>
               </div>
             </div>
           </div>
@@ -244,12 +201,12 @@
   <div class="section">
     <div class="__text">
       <h1>
-        Checkout what we have to offer the world
+        Checkout what services we have to offer South Africa
       </h1>
     </div>
-    <a href="/about">
-      <el-button type="success">Offers</el-button>
-    </a>
+    <router-link to="/services">
+      <el-button type="success">Services</el-button>
+    </router-link>
   </div>
 
   <div>
@@ -278,8 +235,7 @@
           </div>
           <div class="__disclaimer">
             <p>
-              PolyTherm is sells advanced machinery and cutting edge technology.
-              PolyTherm has partnered with blah blah blah.
+              PolyTherm supplies the plastics industry with quality services and materials
               THIS IS PLACE HOLDER TEXT..
               Let me know what wording you would like in the footer section.
               blah blah blah blah blah blah blah blah blah blah blah blah
