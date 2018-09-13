@@ -17,7 +17,7 @@
         <div class="offers ">
           <div class="__offer">
             <div class="__logo">
-              <img src="../assets/images/sj pelletizer.jpg" alt="Rc Loans">
+              <img src="../assets/images/pelletizer.jpg" alt="Rc Loans">
             </div>
             <div class="__head">
               <h4>Size Reduction</h4>
