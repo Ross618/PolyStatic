@@ -73,7 +73,7 @@
     <h1>Welcome to PolyTherm – A leading South African plastic waste recycler</h1>
   </div>
     <div class="__icons">
-      <div class="__icon">
+      <div class="__icon" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="50" data-aos-anchor-placement="top-center" data-aos-once="true">
           
       <img src='../assets/images/Film shredder.jpg' style="width:100%">
 
@@ -82,7 +82,7 @@
             High quality plastic regrinds suitable for all your needs.
         </p>
       </div>
-      <div class="__icon">
+      <div class="__icon" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100" data-aos-anchor-placement="top-center" data-aos-once="true">
           
       <img src='../assets/images/Granulator.jpg' style="width:100%">
 
@@ -91,7 +91,7 @@
             State of the art separation technology – even by colour! 
         </p>
       </div>
-      <div class="__icon">
+      <div class="__icon" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="150" data-aos-anchor-placement="top-center" data-aos-once="true">
           
       <img src='../assets/images/Aglomorator.jpg' style="width:100%">
 
@@ -100,7 +100,7 @@
            Superior polymer compounds made to your specifications. 
         </p>
       </div>
-      <div class="__icon">
+      <div class="__icon" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200" data-aos-anchor-placement="top-center" data-aos-once="true">
           
       <img src='../assets/images/Single shaft lump shredder.jpg' style="width:100%">
 

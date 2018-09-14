@@ -1,7 +1,7 @@
 <template>
 <div>
   <nav class="navbar navbar-light navbar-fixed-top bg-faded ">
-    <div class="__logo">
+    <div class="__logo a1 fadeIn">
       <a href="/">
       <img src="../assets/images/logo2.png" style="width:60px;height:60px;" alt="Poly Logo">
         <img src="../assets/images/PolyText2.png" style="width:160px;height:50px;padding-bottom:5px;" alt="Poly Logo">

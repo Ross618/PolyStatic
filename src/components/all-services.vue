@@ -13,7 +13,7 @@
       </div>
     </div>
     <div class="box container">
-      <div class="__logo">
+      <div class="__logo" data-aos="fade-right" data-aos-duration="1000" data-aos-anchor-placement="top-center" data-aos-once="true">
         <div class="offers ">
           <div class="__offer">
             <div class="__logo">
@@ -86,7 +86,7 @@
           </ul>
         </p>
       </div>
-      <div class="__logo">
+      <div class="__logo" data-aos="fade-left" data-aos-duration="1000" data-aos-anchor-placement="top-center" data-aos-once="true">
         <div class="offers">
           <div class="__offer">
             <div class="__logo">
@@ -100,7 +100,7 @@
       </div>
     </div>
     <div class="box container">
-      <div class="__logo">
+      <div class="__logo" data-aos="fade-right" data-aos-duration="1000" data-aos-anchor-placement="top-center" data-aos-once="true">
         <div class="offers">
           <div class="__offer">
             <div class="__logo">
@@ -176,7 +176,7 @@
           We also offer support in recognising plastic types to ensure maximum return on scrap value.
         </p>
       </div>
-      <div class="__logo">
+      <div class="__logo" data-aos="fade-left" data-aos-duration="1000" data-aos-anchor-placement="top-center" data-aos-once="true">
         <div class="offers">
           <div class="__offer">
             <div class="__logo">
