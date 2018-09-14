@@ -60,9 +60,9 @@
   <div class="headline __invert">
     <h1>From colour sorting and separation to polymer compounding, PolyTherm has it covered</h1>
     <div class="__cta">
-      <a href="/services">
+      <router-link to="/services">
         <el-button type="success">Services</el-button>
-      </a>
+      </router-link>
     </div>
   </div>
 
