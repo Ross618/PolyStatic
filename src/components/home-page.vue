@@ -223,15 +223,19 @@
         </h6> -->
         <div class="__duo">
           <div class="__links">
-            <a href="/about">About</a>
-            <a href="/how-it-works">How it works?</a>
-            <a href="/faq">FAQs</a>
-            <a href="/partners">Partners</a>
+            <router-link to="/services">Services</router-link>
+            <router-link to="/plastic">Plastic Waste</router-link>
+            <router-link to="/contact">Contact Us</router-link>
           </div>
           <div class="__links">
-            <a href="/terms">Terms</a>
-            <a href="/privacy">Privacy Policy</a>
-            <a href="/contact">Contact</a>
+            <p style="padding: 0 0 10px 10px;">
+              <i class="material-icons">call</i>
+              079 401 2282
+            </p>
+            <p style="padding: 0 0 10px 10px;">
+              <i class="material-icons">mail</i>
+              <a href="mailto:info@polytherm.co.za">Email us</a>
+            </p>
           </div>
           <div class="__disclaimer">
             <p>
