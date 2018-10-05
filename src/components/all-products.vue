@@ -16,7 +16,7 @@
     <div class="__icons">
       <div class="__icon" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="50" data-aos-anchor-placement="top-center" data-aos-once="true">
           
-      <img src='../assets/images/Film shredder.jpg' style="width:100%">
+      <img src='../assets/images/pet-bottle-washing.jpg' style="width:100%">
 
         <h2>Regrinds</h2>
         <p style="text-align:center">
@@ -25,7 +25,7 @@
       </div>
       <div class="__icon" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100" data-aos-anchor-placement="top-center" data-aos-once="true">
           
-      <img src='../assets/images/Granulator.jpg' style="width:100%">
+      <img src='../assets/images/PEPP-film-washing.jpg' style="width:100%">
 
         <h2>Separation</h2>
         <p style="text-align:center">
@@ -34,7 +34,7 @@
       </div>
       <div class="__icon" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="150" data-aos-anchor-placement="top-center" data-aos-once="true">
           
-      <img src='../assets/images/Aglomorator.jpg' style="width:100%">
+      <img src='../assets/images/Granulator.jpg' style="width:100%">
 
         <h2>Compounds</h2>
         <p style="text-align:center">
@@ -43,7 +43,7 @@
       </div>
       <div class="__icon" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200" data-aos-anchor-placement="top-center" data-aos-once="true">
           
-      <img src='../assets/images/Single shaft lump shredder.jpg' style="width:100%">
+      <img src='../assets/images/SJ single-stage PEPP film pelletizing line.jpg' style="width:100%">
 
         <h2>We Buy Plastic Scrap</h2>
         <p style="text-align:center">
