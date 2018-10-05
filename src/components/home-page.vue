@@ -176,7 +176,7 @@
           <div class="offers">
             <div class="__offer">
               <div class="__logo">
-                <img src="../assets/images/film-bags.jpg" alt="Genfin SVG">
+                <img src="../assets/images/PEPP-film-washing.jpg" alt="Genfin SVG">
               </div>
               <div class="__head">
                 <h4>Compounding</h4>
