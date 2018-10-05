@@ -137,12 +137,7 @@
           </div>
           <div class="__disclaimer">
             <p>
-              PolyTherm supplies the plastics industry with quality services and materials
-              THIS IS PLACE HOLDER TEXT..
-              Let me know what wording you would like in the footer section.
-              blah blah blah blah blah blah blah blah blah blah blah blah
-              blah blah blah blah blah blah blah blah blah blah blah blah
-              blah blah blah blah blah blah blah blah blah blah blah blah
+              PolyTherm is a professional manufacturer for all kinds of plastic machines which is a blend of researching and developing, designing, manufacturing and operations. We are experts in manufacturing waste plastic recycling machinery, plastic extruders and their auxiliary machines.
             </p>
           </div>
         </div>
