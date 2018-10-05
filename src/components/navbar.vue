@@ -10,6 +10,7 @@
     </div>
     <div class="__links a1 fadeIn">
       <router-link to="/services">Services</router-link>
+      <router-link to="/products">Products</router-link>
       <router-link to="/plastic">Plastic Waste</router-link>
       <router-link to="/contact">Contact Us</router-link>
     </div>
