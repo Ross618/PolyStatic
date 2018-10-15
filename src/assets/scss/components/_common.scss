@@ -657,6 +657,7 @@
      @media(max-width: 900px) {
        .__form {
          padding: 20px;
+         margin-top: 70px;
        }
      }
  
@@ -693,6 +694,9 @@
  
          .el-button {
            padding: 8px 30px;
+           font-family: 'Exo 2', sans-serif;
+           font-weight: bold;
+           font-size: 18px;
          }
        }
        h1 {
@@ -700,6 +704,7 @@
         margin: 0;
         color: #fff;
         font-size: 30px;
+        padding: 0 40px;
       }
      }
    }
@@ -727,7 +732,11 @@
      
  
      .el-button {
+       padding: 8px 30px;
        font-size: 18px;
+       font-family: 'Exo 2', sans-serif;
+       font-weight: bold;
+
      }
    }
  
@@ -759,7 +768,10 @@
      
  
      .el-button {
+       padding: 8px 30px;
        font-size: 18px;
+       font-family: 'Exo 2', sans-serif;
+       font-weight: bold;
      }
    }
  
@@ -796,7 +808,10 @@
      
  
      .el-button {
+       padding: 8px 30px;
        font-size: 18px;
+       font-family: 'Exo 2', sans-serif;
+       font-weight: bold;
      }
    }
  
@@ -834,12 +849,15 @@
      
  
      .el-button {
+       padding: 8px 30px;
        font-size: 18px;
+       font-family: 'Exo 2', sans-serif;
+       font-weight: bold;
      }
    }
  
    .page {
-     padding: 50px 0;
+     margin-top:80px;
      min-height: 100vh;
      background-color: #fff;
  
@@ -870,7 +888,7 @@
      & > div {
        padding: 10px;
        width: 45%;
-       margin-top: 50px;
+       margin-top: 20px;
        @media(max-width: 900px) {
          width: 100%;
        }
@@ -1139,6 +1157,13 @@
      @media(max-width: 1000px) {
        padding: 10px;
      }
+
+     .el-carousel__container {
+       height: 500px;
+       @media(max-width: 500px) {
+        display: none;
+      }
+     }
  
      .el-carousel__mask {
        opacity: 1;
@@ -1157,7 +1182,7 @@
  
        @media(max-width: 1000px) {
          flex-direction: column;
-       justify-content: flex-start;
+         justify-content: flex-start;
        }
  
        .__left {
@@ -1457,7 +1482,11 @@
 
  .__images {
   width: 300px;
-  padding: 10px;
+  height: 230px;
+  //padding: 10px;
+  margin: 10px;
   cursor: pointer;
+  border: 1px solid $polyBlue;
+  border-radius: 10px;
  }
  

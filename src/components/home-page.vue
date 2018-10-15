@@ -24,8 +24,8 @@
           
         </div> -->
         <div class="__prompt">
-          <h1>Supplying the plastics industry with quality services and materials</h1>
-          <h3>Expert plastic recycling services tailored to your requirements</h3>
+          <h1>Supplying the plastics industry with quality products and materials</h1>
+          <h3>PolyTherm provides quality plastic recycling products that is tailored to your requirements</h3>
         </div>
 
         <!-- <div class="wrap-banner">
@@ -58,10 +58,10 @@
     </div>
 
   <div class="headline __invert">
-    <h1>From colour sorting and separation to polymer compounding, PolyTherm has it covered</h1>
+    <h1>From plastic recycling machinery to plastic extrusion lines and auxiliary machines, PolyTherm has it covered</h1>
     <div class="__cta">
-      <router-link to="/services">
-        <el-button type="success">Services</el-button>
+      <router-link to="/about">
+        <el-button type="success">About Us</el-button>
       </router-link>
     </div>
   </div>
@@ -70,37 +70,40 @@
 
   <div class="why">
     <div class="headline">
-    <h1>Welcome to PolyTherm – A leading South African plastic waste recycler</h1>
+    <h1>Welcome to PolyTherm – We offer the best quality machines to customers from around the world</h1>
   </div>
     <div class="__icons">
-      <div class="__icon" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="50" data-aos-anchor-placement="top-center" data-aos-once="true">
-          
-      <img src='../assets/images/Film shredder.jpg' style="width:100%">
-
-        <h2>Regrinds</h2>
-        <p style="text-align:center">
-            High quality plastic regrinds suitable for all your needs.
-        </p>
-      </div>
+      
       <div class="__icon" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100" data-aos-anchor-placement="top-center" data-aos-once="true">
           
       <img src='../assets/images/Granulator.jpg' style="width:100%">
 
-        <h2>Separation</h2>
+        <h2>Plastic Recycling Machinery</h2>
         <p style="text-align:center">
-            State of the art separation technology – even by colour! 
+            State of the art plastic recycling machinery. 
         </p>
       </div>
+
+      <div class="__icon" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="50" data-aos-anchor-placement="top-center" data-aos-once="true">
+          
+      <img src='../assets/images/pet-bottle-washing.jpg' style="width:100%">
+
+        <h2>Plastic pipe/profile extrusion line</h2>
+        <p style="text-align:center">
+            High quality plastic regrinds suitable for all your needs.
+        </p>
+      </div>
+
       <div class="__icon" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="150" data-aos-anchor-placement="top-center" data-aos-once="true">
           
       <img src='../assets/images/Aglomorator.jpg' style="width:100%">
 
-        <h2>Compounds</h2>
+        <h2>Plastic Auxilary Machines</h2>
         <p style="text-align:center">
            Superior polymer compounds made to your specifications. 
         </p>
       </div>
-      <div class="__icon" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200" data-aos-anchor-placement="top-center" data-aos-once="true">
+      <!-- <div class="__icon" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200" data-aos-anchor-placement="top-center" data-aos-once="true">
           
       <img src='../assets/images/Single shaft lump shredder.jpg' style="width:100%">
 
@@ -108,24 +111,23 @@
         <p style="text-align:center">
            We recycle scrap including manufacturers & packaging waste. 
         </p>
-      </div>
+      </div> -->
     </div>
   </div>
 
   <div class="headline __invert">
-    <h1>Our <span class="highlight">Services</span></h1>
+    <h1>Our <span class="highlight">Products</span></h1>
   </div>
 
   <div class="partners">
-    <el-carousel :interval="4000" type="card" height="500px" indicator-position="none" arrow="never">
+    <el-carousel :interval="4000" type="card" indicator-position="none" arrow="never">
       <el-carousel-item>
         <div class="__partner--demo">
           <div class="__left">
             <p>
-              Upon arrival at our dedicated recycling facility all waste plastics are hand sorted by our expert staff into material types ready for reprocessing. 
-              Once sorted the raw waste plastics are reduced in size by our shredding and granulating machinery. These machines are capable of processing any size of materials...
+              PolyTherm is a professional manufacturer for all kinds of plastic machines which is a blend of researching and developing, designing, manufacturing and operations. We are experts in manufacturing waste plastic recycling machinery, plastic extruders and their auxiliary machines.
             </p>
-            <router-link to="/services">
+            <router-link to="/products">
               <el-button type="success" size="tiny">Read More</el-button>
             </router-link>
           </div>
@@ -135,7 +137,7 @@
                 <img src="../assets/images/pelletizer.jpg" alt="Rc Loans">
               </div>
               <div class="__head">
-                <h4>Size Reduction</h4>
+                <h4>Plastic Recycling Machinery</h4>
               </div>
             </div>
           </div>
@@ -147,7 +149,7 @@
             <p>
               PolyTherm operate to industry leading standards when it comes to the fast, efficient and thorough sorting of plastic materials. Utilising both our own staff’s expert knowledge and experience, together with leading edge technology in the form of our purpose built washing and separation plants, our facility is capable of separating, cleaning and sorting a huge range of waste plastics.
             </p>
-            <router-link to="/services">
+            <router-link to="/products">
               <el-button type="success" size="tiny">Read More</el-button>
             </router-link>
           </div>
@@ -157,7 +159,7 @@
                 <img src="../assets/images/film squeezer.jpg" alt="Lualend">
               </div>
               <div class="__head">
-                <h4>Separation</h4>
+                <h4>Plastic Extrusion Line</h4>
               </div>
             </div>
           </div>
@@ -169,7 +171,7 @@
             <p>
               With years of experience in the plastics industry PolyTherm understands that you need the very best quality polymer compounds for your injection, blow & extrusion moulding needs. Our compounding service offers you a viable alternative to the use of virgin plastics – including the added benefits of a cheaper, more cost-effective raw material produced from an environmentally sustainable source – recycled waste or scrap plastics.
             </p>
-            <router-link to="/services">
+            <router-link to="/products">
               <el-button type="success" size="tiny">Read More</el-button>
             </router-link>
           </div>
@@ -179,7 +181,7 @@
                 <img src="../assets/images/PEPP-film-washing.jpg" alt="Genfin SVG">
               </div>
               <div class="__head">
-                <h4>Compounding</h4>
+                <h4>Plastic Auxilary Machines</h4>
               </div>
             </div>
           </div>
@@ -201,51 +203,12 @@
   <div class="section">
     <div class="__text">
       <h1>
-        Checkout what services we have to offer South Africa
+        Checkout what products we have to offer you
       </h1>
     </div>
-    <router-link to="/services">
-      <el-button type="success">Services</el-button>
+    <router-link to="/products">
+      <el-button type="success">Products</el-button>
     </router-link>
-  </div>
-
-  <div>
-    <div class="footer">
-      <div class="container">
-        <div class="__logo">
-          <a href="/">
-            <img src="../assets/images/logo1.png" style="width:80px;height:80px;" alt="PolyTherm Logo">
-            <img src="../assets/images/PolyText.png" style="width:200px;height:60px; padding-bottom: 10px;" alt="PolyTherm Logo">
-          </a>
-        </div>
-        <!-- <h6>
-          Copyright <a href="/">PolyTherm</nuxt-link> {{ getYear() }}
-        </h6> -->
-        <div class="__duo">
-          <div class="__links">
-            <router-link to="/services">Services</router-link>
-            <router-link to="/plastic">Plastic Waste</router-link>
-            <router-link to="/contact">Contact Us</router-link>
-          </div>
-          <div class="__links">
-            <p style="padding: 0 0 10px 10px;">
-              <i class="material-icons">call</i>
-              079 401 2282
-            </p>
-            <p style="padding: 0 0 10px 10px;">
-              <i class="material-icons">mail</i>
-              <a href="mailto:info@polytherm.co.za">Email us</a>
-            </p>
-          </div>
-          <div class="__disclaimer">
-            <p>
-              PolyTherm is a professional manufacturer for all kinds of plastic machines which is a blend of researching and developing, designing, manufacturing and operations. We are experts in manufacturing waste plastic recycling machinery, plastic extruders and their auxiliary machines.
-            </p>
-          </div>
-        </div>
-        
-      </div>
-    </div>
   </div>
 
 </div>

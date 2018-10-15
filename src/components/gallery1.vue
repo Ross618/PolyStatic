@@ -1,6 +1,14 @@
 <template>
 
-<div class="page" style="margin-top:70px">
+<div class="page" style="background-color: #E4E4E4;">
+  <div class="box">
+      <div class="__content" style="text-align:center">
+        <h1><span class="highlight">Product Gallery</span></h1>
+        <p style="font-size: 1.4rem;">
+          PolyTherm offers a wide range of plastic recycling machinery to suit your individual needs
+        </p>
+      </div>
+    </div>
   <div class="__gallery">
     <img class="__images" v-for="(image, i) in images" :src="image" @click="onClick(i)">
     <vue-gallery-slideshow :images="images" :index="index" @close="index = null"></vue-gallery-slideshow>
