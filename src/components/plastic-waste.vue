@@ -151,6 +151,8 @@
 // import localforage from "localforage";
 // import section from "../components/apply-section";
 
+/* eslint-disable */
+
 export default {
   head(){
     return {

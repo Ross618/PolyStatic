@@ -34,7 +34,7 @@ export default {
       require('../assets/images/pelletizer.jpg'),
       require('../assets/images/PEPP-film-washing.jpg'),
       require('../assets/images/vertical dewaterizer.jpg'),
-      require('../assets/images/horizontal dewaterizor.jpg'),
+      require('../assets/images/double shaft shredder.jpg'),
       require('../assets/images/Granulator.jpg'),
       require('../assets/images/Aglomorator.jpg'),
     ],
