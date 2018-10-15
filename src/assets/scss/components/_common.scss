@@ -154,7 +154,7 @@
          margin: 0 5px;
          color: #fff;
          font-size: 1.3rem;
-         font-family: 'Raleway Dots';
+         font-weight: bold;
          // text-shadow: 1px 1px $polyBlue;
          text-decoration: none;
          transition: all 0.2s ease;
@@ -1449,5 +1449,15 @@
    background-position: center center;
    border: 1px solid #ebebeb;
    margin: 5px;
+ }
+
+ .__gallery {
+  text-align: center;
+ }
+
+ .__images {
+  width: 300px;
+  padding: 10px;
+  cursor: pointer;
  }
  
