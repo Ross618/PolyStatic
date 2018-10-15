@@ -9,10 +9,11 @@
 
     </div>
     <div class="__links a1 fadeIn">
-      <router-link to="/services">Services</router-link>
+      <router-link to="/about">About Us</router-link>
+      <!-- <router-link to="/services">Services</router-link> -->
       <router-link to="/products">Products</router-link>
       <router-link to="/gallery">Gallery</router-link>
-      <router-link to="/plastic">Plastic Waste</router-link>
+      <!-- <router-link to="/plastic">Plastic Waste</router-link> -->
       <router-link to="/contact">Contact Us</router-link>
     </div>
   </nav>
@@ -25,17 +26,20 @@
         <router-link to="/">Home</router-link>
       </div>
       <div class="__item">
-        <router-link to="/services">Services</router-link>
+        <router-link to="/about">About Us</router-link>
       </div>
+      <!-- <div class="__item">
+        <router-link to="/services">Services</router-link>
+      </div> -->
       <div class="__item">
         <router-link to="/products">Products</router-link>
       </div>
       <div class="__item">
         <router-link to="/gallery">Gallery</router-link>
       </div>
-      <div class="__item">
+      <!-- <div class="__item">
         <router-link to="/plastc">Plastic Waste</router-link>
-      </div>
+      </div> -->
       <div class="__item">
         <router-link to="/contact">Contact Us</router-link>
       </div>

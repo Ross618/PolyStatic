@@ -3,6 +3,7 @@
     <div class="poly">
       <nav-bar></nav-bar>
     <router-view/>
+    <main-footer></main-footer>
     </div>
   </div>
 </template>
@@ -10,11 +11,13 @@
 <script>
 // @ is an alias to /src
 import navBar from "@/components/navbar.vue";
+import mainFooter from "@/components/main-footer.vue";
 
 export default {
   name: "master",
   components: {
-    navBar
+    navBar,
+    mainFooter
   }
 };
 </script>
