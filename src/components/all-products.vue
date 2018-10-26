@@ -25,7 +25,7 @@
             <p>The rim charges of membrane get into pressing unit through feeding unit. After solid pressing, the rim charges are transmitted into cutting unit for granule cutting.</p>
             <p><strong>Application:</strong></p>
             <p>CPE, PE, CPP, PO, PP, EVA, BOPA, POF, LLDPE, TPE, and nonwoven, etc.</p>
-            <table id="customers">
+            <table class="prod-table">
             <tr>
               <th>Item</th>
               <th>KE-180 recycling unit</th>
@@ -95,7 +95,7 @@
             <h1>PE PP film washing line</h1>
             <p><strong>Working Flow:</strong></p>
             <p>Belt conveyor * 2 → Crusher * 2 → Screw conveyor* 2 → Floating washer → High speed friction machine → Screw conveyor →  Horizontal dewatering machine → Drying pipe system → Transition storage  → Drying pipe system →Storage hopper → Control cabinet</p>
-            <table id="customers">
+            <table class="prod-table">
             <tr>
               <th>Model</th>
               <th>Capacity (kg/h)</th>
@@ -142,7 +142,7 @@
             <h1>HDPE, PP bottle, container, crate, barrel washing line</h1>
             <p><strong>Working Flow:</strong></p>
             <p>Belt conveyor → Crusher  → Screw conveyor → （Hot）Floating washer → Screw conveyor →  Vertical dewatering machine → Drying pipe system → Zig Zag air classification system →Storage hopper → Control cabinet</p>
-            <table id="customers">
+            <table class="prod-table">
             <tr>
               <th>Model</th>
               <th>Capacity (kg/h)</th>
@@ -190,7 +190,7 @@
             <p><strong>Working Flow:</strong></p>
             <p>Belt conveyor → Roll separator → Belt conveyor → Mechanical label remover → Manual separating table → Metal detector →Belt conveyor → Crusher → Screw conveyor → High speed friction machine → Screw conveyor → Floating washer → Screw conveyor → Hot washer → Screw conveyor → Floating washer → Screw conveyor → Vertical dewatering machine → Drying pipe system → Zig zag air classification system → Storage hopper → Control cabinet</p>
             <h4>Estimated Plant Parameters:</h4>
-            <table id="customers">
+            <table class="prod-table">
             <tr>
               <th>Model</th>
               <th>Capacity (kg/h)</th>
@@ -233,7 +233,7 @@
             </tr>
           </table>
           <h4>PET Flakes Quality Reference:</h4>
-            <table id="customers">
+            <table class="prod-table">
             <tr>
               <th>No.</th>
               <th>Description</th>
@@ -275,7 +275,7 @@
             <p>(Note, our SJ series granulator can be pull strip cutting method, or water ring cutting method for option)</p>
             <p><strong>Application:</strong></p>
             <p>PE, PP film, Flakes, etc.</p>
-            <table id="customers">
+            <table class="prod-table">
             <tr>
               <th>Model (single-stage)</th>
               <th>SJ-65</th>

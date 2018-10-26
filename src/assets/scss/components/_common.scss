@@ -1552,7 +1552,7 @@
     @media(max-width: 900px) {
       padding: 50px 50px;
     }
-    @media(max-width: 400px) {
+    @media(max-width: 580px) {
       padding: 0px;
     }
   }
@@ -1593,26 +1593,58 @@
   opacity: 0;
 }
 
-#customers {
+.prod-table {
   //font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
-}
-
-#customers td, #customers th {
-  border: 1px solid #ddd;
+  td, th {
+    border: 1px solid #ddd;
   padding: 8px;
+  }
+  tr:nth-child(even){background-color: #f2f2f2;}
+  tr:hover {background-color: #ddd;}
+  th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: $polyBlue;
+    color: white;
+  }
 }
 
-#customers tr:nth-child(even){background-color: #f2f2f2;}
+@media(max-width: 580px)  {
 
-#customers tr:hover {background-color: #ddd;}
-
-#customers th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: left;
-  background-color: $polyBlue;
-  color: white;
+	/* Force table to not be like tables anymore */
+	table, thead, tbody, th, td, tr { 
+		display: block; 
+	}
+	
+	/* Hide table headers (but not display: none;, for accessibility) */
+	thead tr { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+	
+	tr { border: 1px solid #ccc; }
+	
+	td { 
+		/* Behave  like a "row" */
+		border: none;
+		border-bottom: 1px solid #eee; 
+		position: relative;
+		padding-left: 50%; 
+	}
+	
+	td:before { 
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 6px;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+  }
 }
  
