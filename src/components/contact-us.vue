@@ -62,6 +62,9 @@ export default {
       title: "Contact"
     };
   },
+  mounted() {
+    window.scrollTo(0,0);
+  },
   data() {
     return {
       test: "asdas",

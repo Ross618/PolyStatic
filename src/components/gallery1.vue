@@ -23,6 +23,10 @@
 import VueGallerySlideshow from 'vue-gallery-slideshow';
 
 export default {
+
+  mounted() {
+    window.scrollTo(0,0);
+  },
   
   components: {
     VueGallerySlideshow
