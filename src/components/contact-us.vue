@@ -20,8 +20,18 @@
               <div class="__step"  >
                 <div class="__body">
                   <div class="__col">
+                    <el-form-item label="Name" prop="name">
+                      <el-input v-model="form.name" autofocus></el-input>
+                    </el-form-item>
+                  </div>
+                  <div class="__col">
+                    <el-form-item label="Contact Number" prop="number">
+                      <el-input v-model="form.number"></el-input>
+                    </el-form-item>
+                  </div>
+                  <div class="__col">
                     <el-form-item label="Subject" prop="subject">
-                      <el-input v-model="form.subject" autofocus></el-input>
+                      <el-input v-model="form.subject"></el-input>
                     </el-form-item>
                   </div>
                   
@@ -69,6 +79,8 @@ export default {
     return {
       test: "asdas",
       form: {
+        name: "",
+        number: "",
         subject: "",
         message: ""
       },
@@ -82,6 +94,20 @@ export default {
         //   }
         // ],
         subject: [
+          {
+            required: true,
+            message: "enter a subject",
+            trigger: "change, blur"
+          }
+        ],
+        name: [
+          {
+            required: true,
+            message: "enter a subject",
+            trigger: "change, blur"
+          }
+        ],
+        number: [
           {
             required: true,
             message: "enter a subject",
@@ -111,7 +137,8 @@ export default {
   methods: {
 
     contact() {
-      window.location.href = "mailto:grant.wise@live.com?subject=" + this.form.subject + "&body=" + this.form.message +  "";
+      var body = this.form.message + "\n Name: " + this.form.name + "\n Contact Number: " + this.form.number
+      window.open("mailto:ross@sov.tech?subject=" + this.form.subject + "&body=" + body, "_blank");
     }
 
     // contact() {
