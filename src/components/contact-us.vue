@@ -42,7 +42,7 @@
                   </div> -->
 
                   <div class="__col __full">
-                    <el-form-item label="Message" prop="message">
+                    <el-form-item label="How can we help you?" prop="message">
                       <el-input :rows="4" type="textarea" v-model="form.message"></el-input>
                     </el-form-item>
                   </div>
