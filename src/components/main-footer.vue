@@ -23,7 +23,7 @@
           <div class="__links">
             <p style="padding: 0 0 10px 10px;">
               <i class="material-icons">call</i>
-              079 401 2282
+              076 398 2863
             </p>
             <p style="padding: 0 0 10px 10px;">
               <i class="material-icons">mail</i>
