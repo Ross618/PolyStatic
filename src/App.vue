@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="poly">
-      <nav-bar></nav-bar>
+      <!-- <nav-bar></nav-bar> -->
     <router-view/>
     <main-footer></main-footer>
     </div>

@@ -13,12 +13,12 @@
         </h6> -->
         <div class="__duo">
           <div class="__links">
-            <router-link to="/about">About Us</router-link>
+            <!-- <router-link to="/about">About Us</router-link> -->
             <!-- <router-link to="/services">Services</router-link> -->
-            <router-link to="/products">Products</router-link>
-            <router-link to="/gallery">Gallery</router-link>
+            <!-- <router-link to="/products">Products</router-link> -->
+            <!-- <router-link to="/gallery">Gallery</router-link> -->
             <!-- <router-link to="/plastic">Plastic Waste</router-link> -->
-            <router-link to="/contact">Contact Us</router-link>
+            <!-- <router-link to="/contact">Contact Us</router-link> -->
           </div>
           <div class="__links">
             <p style="padding: 0 0 10px 10px;">

@@ -76,7 +76,7 @@
       
       <div class="__icon" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="100" data-aos-anchor-placement="top-center" data-aos-once="true">
           
-      <img src='../assets/images/Granulator.jpg' style="width:100%">
+      <img src='../assets/images/Granulator.jpg' style="width:100%" alt="Granulator">
 
         <h2>Plastic Recycling Machinery</h2>
         <p style="text-align:center">
@@ -86,7 +86,7 @@
 
       <div class="__icon" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="50" data-aos-anchor-placement="top-center" data-aos-once="true">
           
-      <img src='../assets/images/pet-bottle-washing.jpg' style="width:100%">
+      <img src='../assets/images/pet-bottle-washing.jpg' style="width:100%" alt="pet-bottle-washing">
 
         <h2>Plastic pipe/profile extrusion line</h2>
         <p style="text-align:center">
@@ -96,7 +96,7 @@
 
       <div class="__icon" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="150" data-aos-anchor-placement="top-center" data-aos-once="true">
           
-      <img src='../assets/images/Aglomorator.jpg' style="width:100%">
+      <img src='../assets/images/Aglomorator.jpg' style="width:100%" alt="Aglomorator">
 
         <h2>Plastic Auxilary Machines</h2>
         <p style="text-align:center">
@@ -134,7 +134,7 @@
           <div class="offers ">
             <div class="__offer">
               <div class="__logo">
-                <img src="../assets/images/pelletizer.jpg" alt="Rc Loans">
+                <img src="../assets/images/pelletizer.jpg" alt="pelletizer">
               </div>
               <div class="__head">
                 <h4>Plastic Recycling Machinery</h4>
@@ -156,7 +156,7 @@
           <div class="offers">
             <div class="__offer">
               <div class="__logo">
-                <img src="../assets/images/film squeezer.jpg" alt="Lualend">
+                <img src="../assets/images/film squeezer.jpg" alt="film squeezer">
               </div>
               <div class="__head">
                 <h4>Plastic Extrusion Line</h4>
@@ -178,7 +178,7 @@
           <div class="offers">
             <div class="__offer">
               <div class="__logo">
-                <img src="../assets/images/PEPP-film-washing.jpg" alt="Genfin SVG">
+                <img src="../assets/images/PEPP-film-washing.jpg" alt="PEPP-film-washing">
               </div>
               <div class="__head">
                 <h4>Plastic Auxilary Machines</h4>

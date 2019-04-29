@@ -16,7 +16,7 @@
     <div class="__icons">
       <div class="__icon" :class="{ '__expand' : toggleCat }" @click="toggleCategory()">
       <h2>KE-180 Base Material Edge Trimming Film Recycling Unit</h2> 
-      <img src='../assets/images/KE-180 Base Material Edge Trimming Film Recycling Unit.jpg' :class="{ '__expand' : toggleCat }">
+      <img src='../assets/images/KE-180 Base Material Edge Trimming Film Recycling Unit.jpg' :class="{ '__expand' : toggleCat }" alt="Base Material Edge Trimming Film Recycling Unit">
         <transition name="expand">
         <div class="category" v-if="toggleCat">
           <div class="product-info">
@@ -88,7 +88,7 @@
 
       <div class="__icon" :class="{ '__expand' : toggleCat2 }" @click="toggleCategory2()">
       <h2>PE PP film washing line</h2>
-      <img src='../assets/images/PEPP-film-washing.jpg' :class="{ '__expand' : toggleCat2 }">
+      <img src='../assets/images/PEPP-film-washing.jpg' :class="{ '__expand' : toggleCat2 }" alt="PEPP-film-washing">
       <transition name="expand">
         <div class="category" v-if="toggleCat2">
           <div class="product-info">
