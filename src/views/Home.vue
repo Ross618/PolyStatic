@@ -1,7 +1,8 @@
 <template>
   <div>
+    <home-page></home-page>
     <!-- <img alt="Vue logo" src="../assets/images/logo1.png"> -->
-    <maintenance></maintenance>
+    <!-- <maintenance></maintenance> -->
   </div>
 </template>
 
